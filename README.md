@@ -2,7 +2,7 @@
 Digital Literacy Portfolio project covering infographic design, professional profiles, coding platforms, email etiquette, and cybercrime awareness.
 
 # Digital Literacy Project
-#Student Details
+# Student Details
 Name: Vallabh Singhal
 Reg No: 25BAI11162
 Branch: B.TECH CSE CORE
