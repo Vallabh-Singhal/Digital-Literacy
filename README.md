@@ -8,10 +8,10 @@ Digital Literacy Portfolio project covering infographic design, professional pro
 * Branch: B.TECH CSE AI ML
 * Year: 1st Year
 
-# 📌 Project Overview
+   📌 Project Overview
 This project is created as part of the CSE0001 Digital Literacy course. It demonstrates essential digital skills including online safety, professional communication, and digital tools usage.
 
-# 📂 Tasks Summary
+   📂 Tasks Summary
 🔹 Task 1 – Infographic
 Created a digital literacy infographic using Canva. 📁 Folder: TASK-1 
 
