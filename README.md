@@ -1,17 +1,17 @@
 # Digital-Literacy
 Digital Literacy Portfolio project covering infographic design, professional profiles, coding platforms, email etiquette, and cybercrime awareness.
 
-#Digital Literacy Project
+# Digital Literacy Project
 #Student Details
 Name: Vallabh Singhal
 Reg No: 25BAI11162
 Branch: B.TECH CSE CORE
 Year: 1st Year
 
-#📌 Project Overview
+# 📌 Project Overview
 This project is created as part of the CSE0001 Digital Literacy course. It demonstrates essential digital skills including online safety, professional communication, and digital tools usage.
 
-#📂 Tasks Summary
+# 📂 Tasks Summary
 🔹 Task 1 – Infographic
 Created a digital literacy infographic using Canva. 📁 Folder: TASK-1 
 
@@ -26,5 +26,5 @@ Drafted professional emails and created social media guidelines. 📁 Folder: TA
 🔹 Task 5 – Cybercrime Awareness
 Created a case study and prevention checklist. 📁 Folder: TASK-5
 
-#Conclusion
+# Conclusion
 This project helped me understand digital literacy, online safety, and professional communication skills.
