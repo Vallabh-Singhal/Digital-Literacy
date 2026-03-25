@@ -24,7 +24,7 @@ Created a digital literacy infographic using Canva.
 
 ---
 
-###🔹 Task 2 – Digital Portfolio
+###  🔹 Task 2 – Digital Portfolio
 Created professional profiles on platforms like GitHub and LinkedIn. 
 📁 Folder: TASK-2
 
@@ -44,7 +44,7 @@ Drafted professional emails and created social media guidelines.
 
 ---
 
-🔹 Task 5 – Cybercrime Awareness
+###  🔹 Task 5 – Cybercrime Awareness
 Created a case study and prevention checklist. 
 📁 Folder: TASK-5
 
