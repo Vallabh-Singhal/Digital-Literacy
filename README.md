@@ -8,7 +8,6 @@ Digital Literacy Portfolio project covering infographic design, professional pro
 * Reg No: 25BAI11162
 * Branch: B.TECH CSE AI ML
 * Year: 1st Year
-* 
 ---
 
 ## 📌 Project Overview
